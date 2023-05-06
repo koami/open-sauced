@@ -2,7 +2,7 @@
   <br>
   <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
   <h1>🍕 Open Sauced 🍕</h1>
-  <strong>The path to your next Open Source contribution</strong>
+  <strong>The path to your next Open Source contribution and more pizza.</strong>
 </div>
 <br>
 <p align="center">
